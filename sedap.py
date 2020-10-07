@@ -1,7 +1,4 @@
 #Creator:Faizul
-#Date:7/10/2020
-#time:17:52
-#Recode Teros Boss Tinggal Pake Apa Susahnya Anjeng/ bangsad
 import requests,re,os,sys,time,json,random,urllib,mechanize
 from requests.exceptions import ConnectionError
 from time import sleep as timeout
@@ -10,7 +7,6 @@ from concurrent.futures import ThreadPoolExecutor
 def clear():
     os.system('clear')
 def baner():
-    
     print('╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 
            ║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝ ⚠ 082271426251
            ╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩')  
