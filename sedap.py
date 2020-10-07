@@ -6,17 +6,12 @@ from bs4 import BeautifulSoup as parser
 from concurrent.futures import ThreadPoolExecutor
 def clear():
     os.system('clear')
-def baner():
-    print('╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 
-           ║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝ ⚠ 082271426251
-           ╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩')  
-    
-    print('\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
+def baner():    
+print('\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
 \t\033[00m FACEBOOK ID PUBLIK BY FAIZUL✔
 \t\033[90m -----------------------\033[94m\n')
     
-    
-   
+      
 die=0
 chek=0
 result=0
