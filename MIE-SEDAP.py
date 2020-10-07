@@ -1,7 +1,7 @@
-#Creator:Fahmiapz
-#Date:19/09/2020
-#time:23:00
-#Recode Teros Boss Tinggal Pake Apa Susahnya Anjeng
+#Creator:Faizul
+#Date:7/10/2020
+#time:17:52
+#Recode Teros Boss Tinggal Pake Apa Susahnya Anjeng/ bangsad
 import requests,re,os,sys,time,json,random,urllib,mechanize
 from requests.exceptions import ConnectionError
 from time import sleep as timeout
@@ -10,8 +10,17 @@ from concurrent.futures import ThreadPoolExecutor
 def clear():
     os.system('clear')
 def baner():
-    print('\t\033[91m~\033[94mFB\033[00m Crack From Public\033[91m~\033[00m\n')
-    print('\t\033[93m<\033[90m--------------------\033[93m>\033[00m')
+    
+    print('╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 
+           ║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝ ⚠ 082271426251
+           ╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩')  
+    
+    print('\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
+\t\033[00m FACEBOOK ID PUBLIK BY FAIZUL✔
+\t\033[90m -----------------------\033[94m\n')
+    
+    
+   
 die=0
 chek=0
 result=0
